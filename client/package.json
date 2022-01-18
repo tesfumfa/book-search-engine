@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:3001",
+  "proxy": "https://salty-mountain-11621.herokuapp.com/",
   "dependencies": {
     "@apollo/client": "^3.5.7",
     "@testing-library/jest-dom": "^5.16.1",
