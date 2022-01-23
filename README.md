@@ -45,10 +45,8 @@ WHEN I click on the Logout button<br/>
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 ## Links
 <ul>
-<li><a href=""> Repo </a></li>
+<li><a href="https://github.com/tesfumfa/book-search-engine"> Repo </a></li>
 <li><a href="https://booksearch-google-challenge-21.herokuapp.com/"> Live URL</a></li>
-
-
 </ul>
 
 
